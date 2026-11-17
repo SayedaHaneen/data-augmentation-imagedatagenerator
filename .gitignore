@@ -13,6 +13,12 @@ __pycache__/
 venv/
 .env/
 
-# Build scripts
+# Build and scratch scripts
 build_notebook.py
+build_prerun_notebook.py
 verify_project.py
+render_plots.ps1
+
+# Generated plot assets
+*.png
+*.b64
