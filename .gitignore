@@ -18,7 +18,9 @@ build_notebook.py
 build_prerun_notebook.py
 verify_project.py
 render_plots.ps1
+render_real_plots.ps1
 
-# Generated plot assets
+# Generated plot assets & temporary images
 *.png
 *.b64
+*.jpg
