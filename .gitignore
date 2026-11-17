@@ -1,0 +1,18 @@
+# Dataset downloads and raw archives
+*.zip
+dataset_raw/
+cats_and_dogs_small/
+PetImages/
+
+# Python & Jupyter cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# Build scripts
+build_notebook.py
+verify_project.py
